@@ -1,10 +1,16 @@
-.divClass{
-    position: absolute;
-    top: 50%;
-    left: 50%;
+body {
+  height: 100vh;
+  overflow: hidden;
+  background: linear-gradient(to bottom right, #b968c5, skyblue);
+}
 
-    font-size :100px;
-    font-family:cursive;
-    color:dimgray;
-    font-weight: bold;
+.divClass {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  font-size: 100px;
+  font-family: cursive;
+  color: dimgray;
+  font-weight: bold;
 }
