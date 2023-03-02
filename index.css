@@ -1,7 +1,6 @@
 body {
-  height: 100vh;
-  overflow: hidden;
-  background: linear-gradient(to bottom right, #b968c5, skyblue);
+  /* background: linear-gradient(to bottom right, #b968c5, skyblue); */
+  background-color: rgb(225, 220, 209);
 }
 
 .divClass {
