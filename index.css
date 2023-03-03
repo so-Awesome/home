@@ -1,6 +1,9 @@
 body {
   /* background: linear-gradient(to bottom right, #b968c5, skyblue); */
-  background-color: rgb(225, 220, 209);
+  /* background: linear-gradient(to top, #d7d2c7,  transparent); */
+  background: linear-gradient(to top, #f0f0f0, transparent);
+  background-size: 100% 20px;
+  background-attachment: fixed;
 }
 
 .divClass {
